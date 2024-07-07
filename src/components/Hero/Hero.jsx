@@ -7,17 +7,25 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Olá, Eu sou Érick Lima</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          Estudante do 4º período de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento front-end. Tenho experiência em projetos acadêmicos e pessoais, onde apliquei minhas habilidades em HTML, CSS, JavaScript e React.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me
+
+        <p className={styles.description}>
+          Estou em busca da minha primeira oportunidade de estágio para continuar aprendendo e contribuindo com uma equipe profissional. Sou dedicado, apaixonado por tecnologia e ansioso para fazer parte de um time talentoso.
+        </p>
+
+        <p className={styles.description}>
+          Se você procura um desenvolvedor front-end comprometido e entusiasta, vamos conversar!
+        </p>
+
+        <a href="mailto:erick.lima64@hotmail.com" className={styles.contactBtn}>
+          Contate-me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/perfil.jpeg")}
         alt="Hero image of me"
         className={styles.heroImg}
       />

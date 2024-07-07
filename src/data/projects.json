@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Project PayBank",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Aplicativo bancario Paybank.",
+    "skills": ["React Native", "Firebase", "JS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/LinsArauj0/Pay-Bank"
   },
   {
-    "title": "Project B",
+    "title": "Project Site Noticias",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "Site de Noticias de Cidade criado com as linguagens mais basicas como.",
+    "skills": ["HTML", "CSS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/LinsArauj0/siteNoticias"
   },
   {
-    "title": "Project C",
+    "title": "Project Casa Pet",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Projeto Site de Casa Pet, onde poderam ajudar os nas doações e adoção de pets.",
+    "skills": ["React", "JS", "CSS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/LinsArauj0/cloneCasaPet"
   }
 ]
